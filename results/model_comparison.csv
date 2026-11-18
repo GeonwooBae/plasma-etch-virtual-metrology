@@ -1,0 +1,9 @@
+target,model,MAE,RMSE,R2
+Mean Si Etch Depth,Dummy Mean,0.3321,,
+Mean Si Etch Depth,Ridge,0.1109,0.1388,0.712
+Mean Si Etch Depth,Random Forest,0.172,0.2083,0.549
+Mean Si Etch Depth,XGBoost,0.143332,0.179625,0.636811
+Robust Non-uniformity,Dummy Mean,0.1262,,
+Robust Non-uniformity,Ridge,0.0825,0.0988,-0.283
+Robust Non-uniformity,Random Forest,0.0693,0.0847,0.254
+Robust Non-uniformity,XGBoost,0.069005,0.084902,0.199051

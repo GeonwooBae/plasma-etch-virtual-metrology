@@ -303,6 +303,25 @@ Etch Depth Drift
 The analysis does not claim that these variables are proven physical root causes.
 
 ---
+### Process Drift across Wafer Sequence
+
+#### Platen RF Tuning Capacitor Mean
+![Platen RF Tuning Capacitor Mean](figures/PlatenRFTuningCapacitor_mean.png)
+
+#### Source RF Reflected Power Std
+![Source RF Reflected Power Std](figures/SourceRFReflectedPower_std.png)
+
+#### Pressure Std
+![Pressure Std](figures/Pressure_std.png)
+
+#### Source RF Peak-to-Peak Mean
+![Source RF Peak-to-Peak Mean](figures/SourceRFPeakToPeak_mean.png)
+
+#### Platen RF Tuning Capacitor Std
+![Platen RF Tuning Capacitor Std](figures/PlatenRFTuningCapacitor_std.png)
+
+#### Foreline Pressure Std
+![Foreline Pressure Std](figures/ForeLinePressure_std.png)
 
 ## 10. Process–Etch Relationship
 

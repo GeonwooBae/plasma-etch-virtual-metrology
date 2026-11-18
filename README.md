@@ -505,7 +505,11 @@ plasma-etch-virtual-metrology/
 - h5py / NetCDF
 
 ---
+## Result Files
 
+- [Model Comparison](results/model_comparison.csv)
+- [Spatial Final Test Results](results/spatial_final_test_results.csv)
+- [Wafer-level Spatial Results](results/spatial_wafer_results.csv)
 ## Notes
 
 This project was developed as a data-science study of semiconductor plasma etching using a publicly available research dataset.

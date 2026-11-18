@@ -220,6 +220,10 @@ The selected Ridge model was retrained using all 75 development wafers and evalu
 | Dummy Mean | 0.4006 | 0.4521 | -0.527 |
 | **Ridge Regression** | **0.1081** | **0.1205** | **0.892** |
 
+### Final Test: Actual vs Predicted Mean Si Etch Depth
+
+![Final Test Mean Si Etch Depth](figures/final_test_mean_depth.png)
+
 The Ridge model reduced MAE by approximately **73% compared with the Dummy baseline**.
 
 The similarity between the development CV MAE (`0.111`) and final test MAE (`0.108`) also indicates stable generalization to unseen lots.

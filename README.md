@@ -473,18 +473,21 @@ plasma-etch-virtual-metrology/
 │   └── plasma_etch_virtual_metrology.ipynb
 │
 ├── figures/
-│   ├── model_comparison.png
-│   ├── final_test_prediction.png
-│   ├── process_drift.png
-│   ├── process_etch_relationship.png
+│   ├── final_test_mean_depth.png
+│   ├── ForeLinePressure_std.png
+│   ├── PlatenRFTuningCapacitor_mean.png
+│   ├── PlatenRFTuningCapacitor_std.png
+│   ├── Pressure_std.png
+│   ├── SourceRFPeakToPeak_mean.png
+│   ├── SourceRFReflectedPower_std.png
 │   ├── spatial_actual.png
 │   ├── spatial_predicted.png
 │   └── spatial_error.png
 │
 ├── results/
 │   ├── model_comparison.csv
-│   ├── final_test_results.csv
-│   └── spatial_test_results.csv
+│   ├── spatial_final_test_results.csv
+│   └── spatial_wafer_results.csv
 │
 ├── requirements.txt
 └── .gitignore

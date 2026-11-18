@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+xgboost
+xarray
+h5py
+netCDF4
+openpyxl

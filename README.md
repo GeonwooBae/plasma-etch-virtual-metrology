@@ -368,6 +368,17 @@ A Multi-output Ridge Regression model was used.
 | Mean Spatial Profile | 0.4023 | 0.4779 | 0.9997 |
 | **Multi-output Ridge** | **0.1419** | **0.2121** | 0.9991 |
 
+### Example Spatial Prediction
+
+#### Actual Spatial Profile
+![Actual Spatial Profile](figures/spatial_actual.png)
+
+#### Predicted Spatial Profile
+![Predicted Spatial Profile](figures/spatial_predicted.png)
+
+#### Spatial Prediction Error
+![Spatial Prediction Error](figures/spatial_error.png)
+
 The model reduced point-wise prediction MAE by approximately **65%** compared with the mean spatial profile baseline.
 
 However, this improvement required additional investigation.
